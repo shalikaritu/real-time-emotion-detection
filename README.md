@@ -10,12 +10,6 @@ This project is a real-time emotion detection system that uses computer vision a
 ✅ Optional pop-up or sound alerts on specific emotions  
 ✅ Clean, modular code for easy customization
 
-## 🚀 Demo
-
-![Demo GIF or Screenshot Placeholder](demo.gif)
-
-> Replace the above with a GIF or screenshot of your app in action!
-
 ## 🛠️ Technologies Used
 
 - Python
